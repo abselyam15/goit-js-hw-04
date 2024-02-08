@@ -1,2 +1,2 @@
-# goit-js-hw-04.1
+# goit-js-hw-04
  
